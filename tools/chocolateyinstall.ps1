@@ -2,10 +2,10 @@
 
 $packageName        = 'veeamagent'
 $scriptPath         = $(Split-Path $MyInvocation.MyCommand.Path)
-$url_local          = "https://dl.dropboxusercontent.com/u/6066664/choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
-$url_remote         = "https://dl.dropboxusercontent.com/u/6066664/choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
-$url_local64        = "https://dl.dropboxusercontent.com/u/6066664/choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
-$url_remote64       = "https://dl.dropboxusercontent.com/u/6066664/choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
+$url_local          = "https://s3-eu-west-1.amazonaws.com/public-choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
+$url_remote         = "https://s3-eu-west-1.amazonaws.com/public-choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
+$url_local64        = "https://s3-eu-west-1.amazonaws.com/public-choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
+$url_remote64       = "https://s3-eu-west-1.amazonaws.com/public-choco/veeamagent/VeeamAgentWindows_2.0.0.594.exe"
 $url_local_trans    = ""
 $url_remote_trans   = ""
 $url                = ""
