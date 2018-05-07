@@ -41,6 +41,14 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 
 ## Changelog
 
+### 2018-05-07 Build 2.1.0.423 (20180507)
+
+* rebuild for new GCP links
+
+### 2017-12-21 Build 2.1.0.423
+
+* version 2.1.0.423
+
 ### 2017-03-18 Build 2.0.0.594
 
 * initial build
@@ -50,7 +58,7 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 
 ### Direct
 
-```cmd
+```
 choco install veeamagent
 ```
 
