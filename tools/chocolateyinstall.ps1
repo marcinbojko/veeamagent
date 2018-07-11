@@ -2,10 +2,10 @@
 
 $packageName        = 'veeamagent'
 $scriptPath         = $(Split-Path $MyInvocation.MyCommand.Path)
-$url                = "https://storage.googleapis.com/chocolatey/veeamagent/VeeamAgentWindows_2.1.0.423.exe"
-$url64              = "https://storage.googleapis.com/chocolatey/veeamagent/VeeamAgentWindows_2.1.0.423.exe"
-$checksum           = "9f8b5098192486a5c95ce6e5b77de199e9ea85bf79f52efe17e638b1f6f8b965"
-$checksum64         = "9f8b5098192486a5c95ce6e5b77de199e9ea85bf79f52efe17e638b1f6f8b965"
+$url                = "https://storage.googleapis.com/chocolatey/veeamagent/VeeamAgentWindows_2.2.0.589.exe"
+$url64              = "https://storage.googleapis.com/chocolatey/veeamagent/VeeamAgentWindows_2.2.0.589.exe"
+$checksum           = "b1aceb0d7e541930093b58896c36cf662fde419a337b72d5dc20bbeabafb7495"
+$checksum64         = "b1aceb0d7e541930093b58896c36cf662fde419a337b72d5dc20bbeabafb7495"
 $logfile            = "$env:TEMP\chocolatey\$($packageName)\$($packageName).MsiInstall.log"
 $logdir             = "$env:TEMP\chocolatey\$($packageName)"
 $killexec           = 0

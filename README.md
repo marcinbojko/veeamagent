@@ -15,6 +15,8 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 * Microsoft Windows Server 2012
 * Microsoft Windows Server 2012 R2
 * Microsoft Windows Server 2016
+* Microsoft Windows 10 April 2018 Update
+* Microsoft Windows Server 1803
 
 ## Hardware requirements
 
@@ -41,6 +43,10 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 
 ## Changelog
 
+### 2018-07-11 Build 2.2.0.589
+
+* version 2.2.0.589
+
 ### 2018-05-07 Build 2.1.0.423 (20180507)
 
 * rebuild for new GCP links
@@ -58,8 +64,8 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 
 ### Direct
 
-```
-choco install veeamagent
+```cmd
+choco install veeamagent -y
 ```
 
 ### YAML
