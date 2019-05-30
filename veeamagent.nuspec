@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>veeamagent</id>
     <title></title>
-    <version>3.0.0.748</version>
+    <version>3.0.1.1039</version>
     <authors>Veeam Software</authors>
     <owners>Marcin Bojko</owners>
     <summary>Veeam Agent for Microsoft Windows, built on technology introduced in Veeam Endpoint Backup™ FREE, provides Availability for workloads hosted by Windows-based servers and workstations — either on-premises or running in the public cloud.</summary>
@@ -54,6 +54,10 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 * Supports only 64-bit version
 
 ## Changelog
+
+### 2019-05-30 Build 3.0.1.1039
+
+* version 3.0.1.1039
 
 ### 2019-01-26 Build 3.0.0.748
 

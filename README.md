@@ -43,6 +43,10 @@ Introducing NEW Veeam® Agent for Microsoft Windows, providing backup and recove
 
 ## Changelog
 
+### 2019-05-30 Build 3.0.1.1039
+
+* version 3.0.1.1039
+
 ### 2019-01-26 Build 3.0.0.748
 
 * version 3.0.0.748
